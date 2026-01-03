@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "パペッタ",
+  "base_artist": "ヒズミ零",
+  "createdAt": "2026-01-03T14:20:12.327759Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パペッタ",
+      "artist": "ヒズミ零",
+      "has_synced": false,
+      "path": "select/pl_01_パペッタ_ヒズミ零.txt"
+    }
+  ]
+}
